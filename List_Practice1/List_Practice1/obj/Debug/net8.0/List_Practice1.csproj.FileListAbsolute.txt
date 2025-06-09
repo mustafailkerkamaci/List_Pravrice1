@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\bin\Debug\net8.0\List_Practice1.exe
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\bin\Debug\net8.0\List_Practice1.deps.json
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\bin\Debug\net8.0\List_Practice1.runtimeconfig.json
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\bin\Debug\net8.0\List_Practice1.dll
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\bin\Debug\net8.0\List_Practice1.pdb
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.AssemblyInfo.cs
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.sourcelink.json
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.dll
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\refint\List_Practice1.dll
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.pdb
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\List_Practice1.genruntimeconfig.cache
+C:\Users\musta\source\repos\List_Practice1\List_Practice1\obj\Debug\net8.0\ref\List_Practice1.dll
